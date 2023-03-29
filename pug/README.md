@@ -37,7 +37,7 @@ package main
 import (
 	"log"
 
-	"github.com/gofiber/fiber/v2"
+	"github.com/boomhut/fiber/v2"
 	"github.com/gofiber/template/pug"
 
 	// "net/http" // embedded system

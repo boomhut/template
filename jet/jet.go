@@ -12,7 +12,7 @@ import (
 
 	"github.com/CloudyKit/jet/v6"
 	"github.com/CloudyKit/jet/v6/loaders/httpfs"
-	"github.com/gofiber/fiber/v2"
+	"github.com/boomhut/fiber/v2"
 	"github.com/gofiber/template/utils"
 )
 

@@ -10,7 +10,7 @@ import (
 	"sync"
 
 	"github.com/aymerick/raymond"
-	"github.com/gofiber/fiber/v2"
+	"github.com/boomhut/fiber/v2"
 	"github.com/gofiber/template/utils"
 )
 

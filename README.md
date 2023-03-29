@@ -47,7 +47,7 @@ package main
 import (
 	"log"
 
-	"github.com/gofiber/fiber/v2"
+	"github.com/boomhut/fiber/v2"
 
 	// To use a specific template engine, import as shown below:
 	// "github.com/gofiber/template/pug"
@@ -135,7 +135,7 @@ package main
 import (
 	"log"
 
-	"github.com/gofiber/fiber/v2"
+	"github.com/boomhut/fiber/v2"
 	"github.com/gofiber/template/html"
 
 	"github.com/markbates/pkger"
@@ -160,7 +160,7 @@ package main
 import (
 	"log"
 
-	"github.com/gofiber/fiber/v2"
+	"github.com/boomhut/fiber/v2"
 	"github.com/gofiber/template/html"
 
 	"github.com/gobuffalo/packr/v2"
@@ -185,7 +185,7 @@ package main
 import (
 	"log"
 
-	"github.com/gofiber/fiber/v2"
+	"github.com/boomhut/fiber/v2"
 	"github.com/gofiber/template/html"
 
 	"github.com/GeertJohan/go.rice"
@@ -211,7 +211,7 @@ package main
 import (
 	"log"
 
-	"github.com/gofiber/fiber/v2"
+	"github.com/boomhut/fiber/v2"
 	"github.com/gofiber/template/html"
 	// your generated package
 	"github.com/<user>/<repo>/static"

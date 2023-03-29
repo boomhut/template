@@ -1,4 +1,4 @@
-module github.com/gofiber/template
+module github.com/boomhut/template
 
 go 1.16
 

@@ -9,8 +9,8 @@ import (
 	"strings"
 	"sync"
 
+	"github.com/boomhut/fiber/v2"
 	"github.com/cbroglie/mustache"
-	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/template/utils"
 	"github.com/valyala/bytebufferpool"
 )

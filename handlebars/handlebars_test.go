@@ -8,7 +8,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/gofiber/fiber/v2"
+	"github.com/boomhut/fiber/v2"
 )
 
 func trim(str string) string {
